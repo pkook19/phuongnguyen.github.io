@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Allura&display=swap");
+.box {
+  width: 1920px;
+  height: 1080px;
+  background-color: rgb(78 141 44);
+}
+.window_1 {
+  position: absolute;
+  top: 191px;
+  left: 634px;
+  width: 278.5px;
+  height: 393px;
+  background-color: #ffca4f;
+}
+
+.window_2 {
+  position: absolute;
+  top: 190px;
+  left: 854.18px;
+  width: 59.32px;
+  height: 394px;
+  background-color: rgb(66 161 255);
+}
+
+.window_3 {
+  position: absolute;
+  top: 421.34px;
+  left: 749.38px;
+  width: 48.19px;
+  height: 279.52px;
+  background-color: rgb(255 255 255);
+  transform: rotate(91deg);
+}
+.window_4 {
+  position: absolute;
+  top: 185px;
+  left: 634px;
+  width: 256.53px;
+  height: 40.14px;
+  background-color: rgb(78 141 44);
+}
+.sunshine {
+  position: absolute;
+  top: 264;
+  left: 694px;
+  width: 94px;
+  height: 94px;
+  border-radius: 50%;
+  background-color: rgb(255 255 255);
+}
+
+.booktitle {
+  font-family: "Allura", serif;
+  font-style: normal;
+  color: rgb(255 255 255);
+  word-spacing: 5px;
+  line-height: 70px;
+  text-align: center;
+  width: 400px;
+  position: absolute;
+  top: 253px;
+  left: 884px;
+}
+.title_1 {
+  font-weight: 550;
+  font-size: 32px;
+}
+.TITLE {
+  font-weight: 800;
+  font-size: 40px;
+}
+.from {
+  font-family: "Allura", serif;
+  font-style: normal;
+  font-size: 22px;
+  color: rgb(255 255 255);
+  word-spacing: 3px;
+  line-height: 30px;
+  text-align: right;
+  width: 400px;
+  position: absolute;
+  top: 845px;
+  left: 1027px;
+}
+.my-img {
+  position: absolute;
+  top: 420px;
+  left: 702px;
+}
+.line_1 {
+  width: 1px;
+  height: 288;
+  background-color: rgb(255 255 255);
+  position: absolute;
+  top: 723px;
+  left: 1282px;
+  transform: rotate(90deg);
+}
+.line_2 {
+  width: 1px;
+  height: 288;
+  background-color: rgb(255 255 255);
+  position: absolute;
+  top: 753px;
+  left: 1282px;
+  transform: rotate(90deg);
+}
+.line_3 {
+  width: 1px;
+  height: 288;
+  background-color: rgb(255 255 255);
+  position: absolute;
+  top: 783px;
+  left: 1282px;
+  transform: rotate(90deg);
+}
+.line_4 {
+  width: 1px;
+  height: 288;
+  background-color: rgb(255 255 255);
+  position: absolute;
+  top: 813px;
+  left: 1282px;
+  transform: rotate(90deg);
+}
+.line_5 {
+  width: 1px;
+  height: 288;
+  background-color: rgb(255 255 255);
+  position: absolute;
+  top: 842px;
+  left: 1282px;
+  transform: rotate(90deg);
+}
+.line_6 {
+  width: 1px;
+  height: 288;
+  background-color: rgb(255 255 255);
+  position: absolute;
+  top: 872px;
+  left: 1282px;
+  transform: rotate(90deg);
+}
